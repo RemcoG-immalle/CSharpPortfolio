@@ -1,0 +1,6 @@
+H:\documents\School\Dingen\Einde Schooljaar\Remco Goyvaerts.zip (Unzipped Files)\Remco Goyvaerts\MonsterGame\MonsterGame\bin\Debug\MonsterGame.exe.config
+H:\documents\School\Dingen\Einde Schooljaar\Remco Goyvaerts.zip (Unzipped Files)\Remco Goyvaerts\MonsterGame\MonsterGame\bin\Debug\MonsterGame.exe
+H:\documents\School\Dingen\Einde Schooljaar\Remco Goyvaerts.zip (Unzipped Files)\Remco Goyvaerts\MonsterGame\MonsterGame\bin\Debug\MonsterGame.pdb
+H:\documents\School\Dingen\Einde Schooljaar\Remco Goyvaerts.zip (Unzipped Files)\Remco Goyvaerts\MonsterGame\MonsterGame\obj\Debug\MonsterGame.csprojResolveAssemblyReference.cache
+H:\documents\School\Dingen\Einde Schooljaar\Remco Goyvaerts.zip (Unzipped Files)\Remco Goyvaerts\MonsterGame\MonsterGame\obj\Debug\MonsterGame.exe
+H:\documents\School\Dingen\Einde Schooljaar\Remco Goyvaerts.zip (Unzipped Files)\Remco Goyvaerts\MonsterGame\MonsterGame\obj\Debug\MonsterGame.pdb
